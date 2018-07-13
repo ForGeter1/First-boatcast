@@ -1,16 +1,17 @@
 # First-play
 通过js实现排他功能 日常练习
 
-  html部分
+ body>
+ html部分
     <input type="button" value="好人">
     <input type="button" value="好人">
     <input type="button" value="好人">
     <input type="button" value="好人">
     <input type="button" value="好人">
-      
-    js部分
-    
-     <script>
+
+
+js部分
+    <script>
 
     var objs=document.getElementsByTagName("input");
     // 循环遍历所有按钮
@@ -29,3 +30,4 @@
      
   
     </script>
+</body>
